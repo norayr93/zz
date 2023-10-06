@@ -13,7 +13,7 @@ function App() {
   };
 
   const onInit = async () => {
-    console.log("Initializing");
+    console.log("Initializingggg");
 
     const initObj = {
       token: state.token || "2464|0LxF7U7Hzp0tU1BG0LWTGKOzTUp5OTSqmaQGXHep",
